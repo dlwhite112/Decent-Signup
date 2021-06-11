@@ -28,7 +28,7 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/decent-signup">
             <Landing />
           </Route>
           <Route path="/sign-in">
