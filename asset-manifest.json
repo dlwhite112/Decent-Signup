@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/decent-signup/static/css/main.2f6b9925.chunk.css",
-    "main.js": "/decent-signup/static/js/main.63d41fff.chunk.js",
-    "main.js.map": "/decent-signup/static/js/main.63d41fff.chunk.js.map",
+    "main.js": "/decent-signup/static/js/main.3b104f3f.chunk.js",
+    "main.js.map": "/decent-signup/static/js/main.3b104f3f.chunk.js.map",
     "runtime-main.js": "/decent-signup/static/js/runtime-main.494f5a18.js",
     "runtime-main.js.map": "/decent-signup/static/js/runtime-main.494f5a18.js.map",
     "static/css/2.61b4cb56.chunk.css": "/decent-signup/static/css/2.61b4cb56.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.24d47d5f.chunk.js",
     "static/css/main.2f6b9925.chunk.css",
-    "static/js/main.63d41fff.chunk.js"
+    "static/js/main.3b104f3f.chunk.js"
   ]
 }
