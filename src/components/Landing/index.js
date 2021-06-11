@@ -36,10 +36,10 @@ export default function Landing() {
             </div>
         </div>
         <div className="d-flex flex-row justify-content-center links fw-light">
-          <a href="http://">ABOUT US</a> <span>|</span>{" "}
-          <a href="http://">NEWS</a> <span>|</span>
-          <a href="http://">JOBS</a> <span>|</span>{" "}
-          <a href="http://">CONTACT US</a>
+          <a href="https://www.decent.com/about-us">ABOUT US</a> <span>|</span>{" "}
+          <a href="https://www.decent.com/blog/all-posts">NEWS</a> <span>|</span>
+          <a href="https://decent.breezy.hr/">JOBS</a> <span>|</span>{" "}
+          <a href="https://www.decent.com/persona/brokers">CONTACT US</a>
         </div>
         <div className="d-flex flex-row justify-content-center m-3">
           <a href="https://twitter.com/decent">
