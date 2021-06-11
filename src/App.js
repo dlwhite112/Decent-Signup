@@ -11,10 +11,10 @@ function App() {
   return (
 
     <div>
-      <div className="container">
+      <div className="nav">
       <nav class="navbar navbar-light bg-lighter">
   <div class="container">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="/">
       <img src={logo} alt="decent-logo" height="50"></img>
     </a>
   </div>
