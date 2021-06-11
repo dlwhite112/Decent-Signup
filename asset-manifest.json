@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Deploy/static/css/main.2f6b9925.chunk.css",
+    "main.js": "/React-Deploy/static/js/main.63d41fff.chunk.js",
+    "main.js.map": "/React-Deploy/static/js/main.63d41fff.chunk.js.map",
+    "runtime-main.js": "/React-Deploy/static/js/runtime-main.ae866aa5.js",
+    "runtime-main.js.map": "/React-Deploy/static/js/runtime-main.ae866aa5.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/React-Deploy/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.24d47d5f.chunk.js": "/React-Deploy/static/js/2.24d47d5f.chunk.js",
+    "static/js/2.24d47d5f.chunk.js.map": "/React-Deploy/static/js/2.24d47d5f.chunk.js.map",
+    "static/js/3.72a5fdb1.chunk.js": "/React-Deploy/static/js/3.72a5fdb1.chunk.js",
+    "static/js/3.72a5fdb1.chunk.js.map": "/React-Deploy/static/js/3.72a5fdb1.chunk.js.map",
+    "index.html": "/React-Deploy/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/React-Deploy/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.2f6b9925.chunk.css.map": "/React-Deploy/static/css/main.2f6b9925.chunk.css.map",
+    "static/js/2.24d47d5f.chunk.js.LICENSE.txt": "/React-Deploy/static/js/2.24d47d5f.chunk.js.LICENSE.txt",
+    "static/media/doctor-img-1.aae88a09.jpg": "/React-Deploy/static/media/doctor-img-1.aae88a09.jpg",
+    "static/media/doctor-img-2.9fda57b2.jpg": "/React-Deploy/static/media/doctor-img-2.9fda57b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae866aa5.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.24d47d5f.chunk.js",
+    "static/css/main.2f6b9925.chunk.css",
+    "static/js/main.63d41fff.chunk.js"
+  ]
+}
