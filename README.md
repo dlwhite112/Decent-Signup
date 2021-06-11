@@ -1,7 +1,7 @@
 ![decent-logo](https://user-images.githubusercontent.com/74333123/121635284-979def00-ca4b-11eb-971f-1c56bb2bf2b5.png)
 
 # Decent | Frontend Exercise
-  > Goal
+  > Goal :
 Create a single page application for the attached Sign Up/Sign In flow wireframes, and write a short document about your project. 
 
   
