@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+![decent-logo](https://user-images.githubusercontent.com/74333123/121635284-979def00-ca4b-11eb-971f-1c56bb2bf2b5.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Decent | Frontend Exercise
+  > Goal
+Create a single page application for the attached Sign Up/Sign In flow wireframes, and write a short document about your project. 
 
-## Available Scripts
+  
+  ## Table of contents
+  * [General info](#general-info)
+  * [Screenshots](#screenshots)
+  * [Tools](#tools)
+  * [Installation](#installation)
+  * [Contributing](#contributing)
+  * [Link](#link)
+  * [Questions](#Questions)
+  
+  
+  ## General info : 
+  Initial Approach:
 
-In the project directory, you can run:
+When approaching this project my initial thought process was to read through the requirements and satisfy all requirements by making a full-stack React.js application. I planned to use React.js, Formik, Yup for the validation, and Bootstrap with custom CSS for the styling and animations.
 
-### `npm start`
+Woking in increments of 30 min, I began my typical workflow deciding on which technologies I needed. Next, I moved into building the markup adhering strictly to the wireframes. After the first 30 min increment, I realized I probably wouldn't have enough time to do everything so I would probably have to mock some functionality in vanilla JS and cut corners to finish as much as possible.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Reassessment: 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+I planned on using the entire 6-hour window to work, foreshadowing the possibility that I might need to adjust my strategy, I set a timer on my watch for 3 hours to pause and pivot if need be. When The halftime alarm sounded I took a step back and decided I would be better off focusing on finishing less of the application and having a polished finish product for deployment. I can always keep tabs on plans for future deployment. My goal is to have some semblance of a finished and functioning product.
 
-### `npm test`
+Conclusion & Future Development:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Hindsight is 2020. If starting again from scratch I probably would follow the initial wireframes more as a suggestion than as a strict guideline. I think I slowed myself down a  lot trying to match the wireframe exactly in the beginning.  I think my creativity is my best asset and if I would've allowed myself to be a little less critical I would have created a little more freely and showcased my design abilities more effectively.
 
-### `npm run build`
+For future deployment, I would like to implement Formik and Material UI. Also, I wanted to add a Hero carousel of some images with an overlay to make the Landing component a little more interesting. In the future, I would implement MongoDB and some seed data for the form functionality. Then I would focus on the visual hierarchy of my text, optimization of my images, do some Lighthouse auditing, and a few subtle transitions and animations.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Overall I think the exercise was exciting and refreshing. The time constraints challenged me as a developer and forced me to be more decisive and forward-thinking with my design decision and overall approach. Now I know which areas to focus on developing my skill set
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ### Installation 
+    1. Clone Repo
+    2. Install Packages & Dependencies
+    3. Run application.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  ### License
+    N/A
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ### Contributing
+    Dl.dev - https://github.com/dlwhite112
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  
+  ## Screenshots
+  <img width="1344" alt="landing-screenshot" src="https://user-images.githubusercontent.com/74333123/121635661-40e4e500-ca4c-11eb-90bf-1137181d4175.png">
+  <img width="1344" alt="sign-in-screenshot" src="https://user-images.githubusercontent.com/74333123/121635691-4b06e380-ca4c-11eb-8365-f1e913cc617b.png">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  
+  ## Tools
+  * REACT.js
+  * Bootstrap v5.0
+  * CSS
+ 
 
-## Learn More
+  
+  ## Link
+  https://dlwhite112.github.io/decent-signup/
+  
+  
+  ## Questions
+  Please see my GitHub: https://github.com/dlwhite112
+  You can ask me questions here: dlwhite112@gmail.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
